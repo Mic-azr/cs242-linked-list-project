@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BookNode
+comment0.text=\r\n\ A\ class\ representing\ a\ book\ stocked\ in\ a\ bookstore.\r\n\ This\ class's\ instance\ variables\ include\ ISBN\ number(String),\ title(String),\ author(String),\ number\ of\ pages(int),\ and\ price(double)\r\n\ @author\ Michael\ Cummings\r\n\ @version\ 12.10.21\r\n
+comment1.params=book_isbn\ book_title\ book_author\ book_page_count\ book_price
+comment1.target=BookNode(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BookNode\r\n\ @param\ book_isbn,\ book_title,\ book_author,\ book_page_count,\ book_price\r\n
+numComments=2

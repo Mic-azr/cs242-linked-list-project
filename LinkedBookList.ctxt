@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LinkedBookList
+comment0.text=\r\n\ A\ class\ representing\ a\ LinkedList\ containing\ elements\ of\ data\ type\ BookNode\r\n\ @author\ Michael\ Cummings\r\n\ @version\ 12.10.2021\r\n
+comment1.params=
+comment1.target=LinkedBookList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LinkedBookList\r\n
+comment2.params=new_node
+comment2.target=void\ append(BookNode)
+comment2.text=\r\n\ Method\ to\ add\ a\ new\ BookNode\ to\ the\ end\ of\ a\ LinkedBookList\r\n
+comment3.params=new_node
+comment3.target=void\ prepend(BookNode)
+comment3.text=\r\n\ Method\ to\ add\ a\ new\ BookNode\ to\ the\ beginning\ of\ a\ LinkedBookList\r\n
+comment4.params=current_node\ new_node
+comment4.target=void\ insertAt(BookNode,\ BookNode)
+comment4.text=\r\n\ Method\ to\ add\ a\ new\ BookNode\ at\ the\ position\ immediately\ after\ another\ existing\ BookNode\ \r\n
+comment5.params=current_node
+comment5.target=void\ removeAfter(BookNode)
+comment5.text=\r\n\ Method\ to\ remove\ a\ BookNode's\ successor\ from\ a\ LinkedBookList\r\n
+comment6.params=book_isbn
+comment6.target=void\ searchISBN(java.lang.String)
+comment6.text=\r\n\ A\ method\ to\ search\ for\ a\ specific\ BookNode\ by\ its\ isbn_num\ data\ member\r\n\ @param\ int\ isbn_num\r\n
+comment7.params=
+comment7.target=void\ printBookList()
+comment7.text=\r\n\ Method\ to\ print\ the\ LinkedBookList\ as\ an\ array\r\n
+numComments=8
